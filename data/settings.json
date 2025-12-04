@@ -1,0 +1,5 @@
+{
+  "cronEnabled": true,
+  "scrapeSchedule": "0 6 * * *",
+  "newsletterSchedule": "0 8 * * *"
+}
