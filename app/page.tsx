@@ -316,12 +316,6 @@ export default function Home() {
               transition={{ duration: 0.6 }}
             >
               <div className="inline-flex flex-wrap items-center justify-center gap-3 sm:gap-6 px-4 sm:px-6 py-2.5 sm:py-3 bg-gray-800/30 border border-gray-700/50 rounded-full">
-                <span className="flex items-center gap-1.5 sm:gap-2 text-xs sm:text-sm text-gray-300">
-                  <Users className="h-3.5 sm:h-4 w-3.5 sm:w-4 text-blue-400" />
-                  <span className="whitespace-nowrap">
-                    2,500+ product engineers
-                  </span>
-                </span>
                 <span className="text-gray-700 hidden xs:inline">•</span>
                 <span className="flex items-center gap-1.5 sm:gap-2 text-xs sm:text-sm text-gray-300">
                   <Zap className="h-3.5 sm:h-4 w-3.5 sm:w-4 text-green-400" />
